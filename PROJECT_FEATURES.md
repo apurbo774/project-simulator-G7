@@ -20,3 +20,9 @@ The Admin Home Page acts as the main dashboard for administrators.
 The interface is designed for easy navigation with clear menus and action buttons.
 **Status: Implemented**
 
+## 5.1.1.1-Login
+Allows admin to securely access the system
+The login functionality ensures secure access to the admin module
+Only authorized administrators can access the system.
+**Status: Implemented**
+

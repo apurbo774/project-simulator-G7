@@ -20,3 +20,7 @@ The Admin Home Page acts as the main dashboard for administrators.
 The interface is designed for easy navigation with clear menus and action buttons.
 **Status: Implemented**
 
+## 5.1.1.1.1-Enter-Username-or-Email
+The admin provides a unique username or registered email address to identify their account.
+**Status: Implemented**
+

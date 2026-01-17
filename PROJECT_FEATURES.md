@@ -22,5 +22,9 @@ The interface is designed for easy navigation with clear menus and action button
 
 ## 5.1.1.1.1-Enter-Username-or-Email
 The admin provides a unique username or registered email address to identify their account.
+## 5.1.1.1-Login
+Allows admin to securely access the system
+The login functionality ensures secure access to the admin module
+Only authorized administrators can access the system.
 **Status: Implemented**
 

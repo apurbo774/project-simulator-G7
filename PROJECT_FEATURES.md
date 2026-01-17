@@ -24,3 +24,7 @@ The interface is designed for easy navigation with clear menus and action button
 The admin provides a unique username or registered email address to identify their account.
 **Status: Implemented**
 
+## feature/5.1.1.1.2-Enter-Password
+The admin enters their password securely, which is encrypted to protect sensitive information.
+**Status: Implemented**
+

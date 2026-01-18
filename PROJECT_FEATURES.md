@@ -83,3 +83,9 @@ Admin can Handle problem and Feedback....
 - Resolve Disputed Complaints
 **Status: Implemented**
 
+## 5.1.2-Citizen-Requirements
+Citizen need to Registration to enter Home Page. For registration , citizen required following information
+-Enter Full Name
+-Enter Email Address
+**Status: Implemented**
+

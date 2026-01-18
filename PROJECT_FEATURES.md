@@ -20,9 +20,21 @@ The Admin Home Page acts as the main dashboard for administrators.
 The interface is designed for easy navigation with clear menus and action buttons.
 **Status: Implemented**
 
-## 5.1.1.1-Login
-Allows admin to securely access the system
-The login functionality ensures secure access to the admin module
-Only authorized administrators can access the system.
+## 5.1.1.1.1-Enter-Username-or-Email
+The admin provides a unique username or registered email address to identify their account.
+**Status: Implemented**
+
+## feature/5.1.1.1.2-Enter-Password
+The admin enters their password securely, which is encrypted to protect sensitive information.
+**Status: Implemented**
+
+## feature/5.1.1.2-Manage-Uses
+Admin can manage Users,where
+- Add a New User
+(Citizen, Officer, Supervisor)
+- Edit User Information
+- Delete a User Account
+- Reset User Password
+- Search User by Name, Email, or Role
 **Status: Implemented**
 

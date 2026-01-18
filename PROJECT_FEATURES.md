@@ -113,3 +113,8 @@ Citizen can give feedback
 - Add a comment or suggestion about the service
 **Status: Implemented**
 
+## 5.1.2.6-Complaint-History
+Citizen can see complaint History
+- View all past complaints with statuses and resolution details
+**Status: Implemented**
+

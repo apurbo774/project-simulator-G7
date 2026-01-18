@@ -38,3 +38,20 @@ Admin can manage Users,where
 - Search User by Name, Email, or Role
 **Status: Implemented**
 
+## feature/5.1.1.3-Assign-Complaints
+- View Unassigned Complaints
+- Manual Complaint Assignment
+- Automatic Complaint Routing
+- Reassign Unresolved Complaints
+Admin can Assign complaints.....
+- Manual Complaint Assignment
+- Automatic Complaint Routing
+- Reassign Unresolved Complaints
+**Status: Implemented Assign-Complaints**
+
+- View Unassigned Complaints
+- Manual Complaint Assignment
+- Automatic Complaint Routing
+- Reassign Unresolved Complaints
+**Status: Implemented Assign-Complaints**
+

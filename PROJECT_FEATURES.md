@@ -107,3 +107,9 @@ Citizen can check complaint status
 - Receive alerts when complaint status changes
 **Status: Implemented**
 
+## 5.1.2.5-Feedback
+Citizen can give feedback
+- Rate the resolution of the complaint
+- Add a comment or suggestion about the service
+**Status: Implemented**
+

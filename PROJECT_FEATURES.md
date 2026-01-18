@@ -28,3 +28,29 @@ The login functionality ensures secure access to the admin module
 Only authorized administrators can access the system.
 **Status: Implemented**
 
+## feature/5.1.1.1.2-Enter-Password
+The admin enters their password securely, which is encrypted to protect sensitive information.
+**Status: Implemented**
+
+## feature/5.1.1.1.2-Enter-Password
+The admin enters their password securely, which is encrypted to protect sensitive information.
+**Status: Implemented**
+
+## 5.1.1.2-Manage-Users
+Admin can manage Users,where
+- Add a New User
+(Citizen, Officer, Supervisor)
+- Edit User Information
+- Delete a User Account
+- Reset User Password
+- Search User by Name, Email, or Role
+**Status: Implemented**
+
+## 5.1.1.3-Assign-Complaints
+Admin can assign complaints.....
+- View Unassigned Complaints
+- Manual Complaint Assignment
+- Automatic Complaint Routing
+- Reassign Unresolved Complaints
+**Status: Implemented Assign-Complaints**
+

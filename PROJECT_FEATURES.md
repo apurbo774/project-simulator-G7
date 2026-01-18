@@ -68,7 +68,7 @@ Admin can Genarate Reports
 - Export Reports
 **Status: Implemented**
 
-## 5.1.1.5-Manage-Categories
+## 5.1.1.6-Manage-Categories
 Admin can Manage Categories....
 - Add Complaint Category
 - Edit Category or Routing Rule

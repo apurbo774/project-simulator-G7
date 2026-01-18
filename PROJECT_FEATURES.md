@@ -75,3 +75,10 @@ Admin can Manage Categories....
 - Delete Unused Category
 **Status: Implemented**
 
+## 5.1.1.7-Handle-Problems and Feedback
+Admin can Handle problem and Feedback....
+- View Citizen Feedback
+- Take Action on Low-Rated Complaints
+- Resolve Disputed Complaints
+**Status: Implemented**
+

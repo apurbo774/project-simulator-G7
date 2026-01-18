@@ -88,3 +88,12 @@ Citizen need to Registration to enter Home Page. For registration , citizen requ
 - Enter Email Address
 **Status: Implemented**
 
+## 5.1.2.3-Submit complaint
+Citizen can complain thought the Submit feature and ....
+- Enter complaint description
+- Upload a photo as proof
+- Provide location manually or via GPS
+- Select complaint category (road, water, electricity, waste, etc.)
+- Click 'Submit' to send the complaint to the system
+**Status: Implemented**
+

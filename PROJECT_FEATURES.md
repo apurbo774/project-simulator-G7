@@ -54,3 +54,10 @@ Admin can assign complaints.....
 - Reassign Unresolved Complaints
 **Status: Implemented Assign-Complaints**
 
+## 5.1.1.3-Assign-Complaints
+Admin can Monitor activity
+- View Total Complaints
+- View Resolved Complaints by Department
+- Track Resolution Time
+**Status: Implemented Monitor activity**
+

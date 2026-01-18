@@ -98,3 +98,12 @@ Citizen can complain thought the Submit feature and ....
 - Click 'Submit' to send the complaint to the system
 **Status: Implemented**
 
+## 5.1.2.4-Check-Complaint-Status
+Citizen can check complaint status
+- Check Complaint Status
+- View current status (Pending, In Progress, Solved)
+- See date and time of last update
+- Notifications
+- Receive alerts when complaint status changes
+**Status: Implemented**
+

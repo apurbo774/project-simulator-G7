@@ -28,3 +28,13 @@ The admin provides a unique username or registered email address to identify the
 The admin enters their password securely, which is encrypted to protect sensitive information.
 **Status: Implemented**
 
+## feature/5.1.1.2-Manage-Uses
+Admin can manage Users,where
+- Add a New User
+(Citizen, Officer, Supervisor)
+- Edit User Information
+- Delete a User Account
+- Reset User Password
+- Search User by Name, Email, or Role
+**Status: Implemented**
+

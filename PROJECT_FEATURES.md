@@ -89,7 +89,7 @@ Citizen need to Registration to enter Home Page. For registration , citizen requ
 **Status: Implemented**
 
 ## 5.1.2.3-Submit complaint
-Citizen can complain thought the Submit feature and ....
+Citizen can complain thought the Submit feature by following bellow step....
 - Enter complaint description
 - Upload a photo as proof
 - Provide location manually or via GPS

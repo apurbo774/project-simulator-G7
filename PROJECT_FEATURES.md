@@ -61,7 +61,7 @@ Admin can Monitor activity
 - Track Resolution Time
 **Status: Implemented Monitor activity**
 
-##5.1.1.5-Genarate-Reports
+## 5.1.1.5-Genarate-Reports
 Admin can Genarate Reports
 - Department-Based Report
 - Time-Based Report

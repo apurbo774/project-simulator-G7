@@ -134,3 +134,9 @@ Department officer can view complaints
 - Sort Complaints by Urgency, Location, or Date
 **Status: Implemented**
 
+## 5.1.3-2-Update-Complaints-Status
+Department officer can Update complaints status
+- Change Status to “Under Review,” “In Progress,” or “Solved”
+- Add Work Progress Notes for Each Complaint
+**Status: Implemented**
+

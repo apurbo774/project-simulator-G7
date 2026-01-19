@@ -158,3 +158,9 @@ Supervisor need to complete following steps..
 - View List of Complaints Requiring Inspection
 **Status: Implemented**
 
+## 5.1.4.3 Site Visit Verification
+- Supervisors ensure that complaints have been properly addressed on-site.
+- Supervisors can verify whether field officers have visited the site and resolved the issue according to the complaint requirements.
+- Allows supervisors to add notes, confirm resolution, or escalate issues if the visit is incomplete or unsatisfactory.
+**Status: Implemented**
+

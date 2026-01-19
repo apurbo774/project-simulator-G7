@@ -145,3 +145,13 @@ Department officer can Update complaints status
 - Search by Complaint ID, Category, or Location
 **Status: Implemented**
 
+## 5.1.4.1-Supervisor Dashboard
+Supervisor need to complete following steps..
+- Login
+- Enter Username or Email
+- Enter Password
+- Click 'Login' Button
+- Validate Credentials and Grant Access
+- Show Error Message for Incorrect Credentials
+**Status: Implemented**
+

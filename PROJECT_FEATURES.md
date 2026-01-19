@@ -128,3 +128,9 @@ Depertment officer Dashboard available after follow steps
 - Show Error Message for Incorrect Credentials
 **Status: Implemented**
 
+## 5.1.3-1-View-Complaints
+Department officer can view complaints
+- View All Complaints Assigned to Their Department
+- Sort Complaints by Urgency, Location, or Date
+**Status: Implemented**
+

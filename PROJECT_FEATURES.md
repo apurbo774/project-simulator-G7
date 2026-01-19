@@ -155,3 +155,7 @@ Supervisor need to complete following steps..
 - Show Error Message for Incorrect Credentials
 **Status: Implemented**
 
+## 5.1.4.2-View-Assigned-Complaints
+- View List of Complaints Requiring Inspection
+**Status: Implemented**
+

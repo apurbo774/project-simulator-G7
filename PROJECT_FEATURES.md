@@ -118,3 +118,13 @@ Citizen can see complaint History
 - View all past complaints with statuses and resolution details
 **Status: Implemented**
 
+## 5.1.3-Depertment-Officer-Dashboard
+Depertment officer Dashboard available after follow steps
+- Login
+- Enter Username or Email
+- Enter Password
+- Click “Login” Button
+- Validate Credentials and Grant Access
+- Show Error Message for Incorrect Credentials
+**Status: Implemented**
+

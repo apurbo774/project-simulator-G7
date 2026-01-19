@@ -140,3 +140,8 @@ Department officer can Update complaints status
 - Add Work Progress Notes for Each Complaint
 **Status: Implemented**
 
+## 5.1.3.3-Search-Complaints
+ Department officer can Search Complaints
+- Search by Complaint ID, Category, or Location
+**Status: Implemented**
+

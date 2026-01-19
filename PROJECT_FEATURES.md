@@ -117,3 +117,40 @@ Citizen can see complaint History
 - View all past complaints with statuses and resolution details
 **Status: Implemented**
 
+## 5.1.3-Depertment-Officer-Dashboard
+Depertment officer Dashboard available after follow steps
+- Login
+- Enter Username or Email
+- Enter Password
+- Click “Login” Button
+- Validate Credentials and Grant Access
+- Show Error Message for Incorrect Credentials
+**Status: Implemented**
+
+## 5.1.3-1-View-Complaints
+Department officer can view complaints
+- View All Complaints Assigned to Their Department
+- Sort Complaints by Urgency, Location, or Date
+**Status: Implemented**
+
+## 5.1.3-2-Update-Complaints-Status
+Department officer can Update complaints status
+- Change Status to “Under Review,” “In Progress,” or “Solved”
+- Add Work Progress Notes for Each Complaint
+**Status: Implemented**
+
+## 5.1.3.3-Search-Complaints
+ Department officer can Search Complaints
+- Search by Complaint ID, Category, or Location
+**Status: Implemented**
+
+## 5.1.4.1-Supervisor Dashboard
+Supervisor need to complete following steps..
+- Login
+- Enter Username or Email
+- Enter Password
+- Click 'Login' Button
+- Validate Credentials and Grant Access
+- Show Error Message for Incorrect Credentials
+**Status: Implemented**
+

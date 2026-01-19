@@ -22,13 +22,21 @@ The interface is designed for easy navigation with clear menus and action button
 
 ## 5.1.1.1.1-Enter-Username-or-Email
 The admin provides a unique username or registered email address to identify their account.
+## 5.1.1.1-Login
+Allows admin to securely access the system
+The login functionality ensures secure access to the admin module
+Only authorized administrators can access the system.
 **Status: Implemented**
 
 ## feature/5.1.1.1.2-Enter-Password
 The admin enters their password securely, which is encrypted to protect sensitive information.
 **Status: Implemented**
 
-## feature/5.1.1.2-Manage-Uses
+## feature/5.1.1.1.2-Enter-Password
+The admin enters their password securely, which is encrypted to protect sensitive information.
+**Status: Implemented**
+
+## 5.1.1.2-Manage-Users
 Admin can manage Users,where
 - Add a New User
 (Citizen, Officer, Supervisor)
@@ -38,38 +46,29 @@ Admin can manage Users,where
 - Search User by Name, Email, or Role
 **Status: Implemented**
 
-## feature/5.1.1.3-Assign-Complaints
-- View Unassigned Complaints
-- Manual Complaint Assignment
-- Automatic Complaint Routing
-- Reassign Unresolved Complaints
-Admin can Assign complaints.....
-- Manual Complaint Assignment
-- Automatic Complaint Routing
-- Reassign Unresolved Complaints
-**Status: Implemented Assign-Complaints**
-
-- View Unassigned Complaints
-- Manual Complaint Assignment
-- Automatic Complaint Routing
-- Reassign Unresolved Complaints
-**Status: Implemented Assign-Complaints**
-
 ## 5.1.1.3-Assign-Complaints
+Admin can assign complaints.....
+- View Unassigned Complaints
+- Manual Complaint Assignment
+- Automatic Complaint Routing
+- Reassign Unresolved Complaints
+**Status: Implemented Assign-Complaints**
+
+## 5.1.1.4-Monitor-Activity
 Admin can Monitor activity
 - View Total Complaints
 - View Resolved Complaints by Department
 - Track Resolution Time
 **Status: Implemented Monitor activity**
 
-##5.1.1.5-Genarate-Reports
+## 5.1.1.5-Genarate-Reports
 Admin can Genarate Reports
 - Department-Based Report
 - Time-Based Report
 - Export Reports
 **Status: Implemented**
 
-## 5.1.1.5-Manage-Categories
+## 5.1.1.6-Manage-Categories
 Admin can Manage Categories....
 - Add Complaint Category
 - Edit Category or Routing Rule
@@ -85,12 +84,12 @@ Admin can Handle problem and Feedback....
 
 ## 5.1.2-Citizen-Requirements
 Citizen need to Registration to enter Home Page. For registration , citizen required following information
--Enter Full Name
--Enter Email Address
+- Enter Full Name
+- Enter Email Address
 **Status: Implemented**
 
 ## 5.1.2.3-Submit complaint
-Citizen can complain thought the Submit feature and ....
+Citizen can complain thought the Submit feature by following bellow step....
 - Enter complaint description
 - Upload a photo as proof
 - Provide location manually or via GPS
@@ -138,5 +137,30 @@ Department officer can view complaints
 Department officer can Update complaints status
 - Change Status to “Under Review,” “In Progress,” or “Solved”
 - Add Work Progress Notes for Each Complaint
+**Status: Implemented**
+
+## 5.1.3.3-Search-Complaints
+ Department officer can Search Complaints
+- Search by Complaint ID, Category, or Location
+**Status: Implemented**
+
+## 5.1.4.1-Supervisor Dashboard
+Supervisor need to complete following steps..
+- Login
+- Enter Username or Email
+- Enter Password
+- Click 'Login' Button
+- Validate Credentials and Grant Access
+- Show Error Message for Incorrect Credentials
+**Status: Implemented**
+
+## 5.1.4.2-View-Assigned-Complaints
+- View List of Complaints Requiring Inspection
+**Status: Implemented**
+
+## 5.1.4.3 Site Visit Verification
+- Supervisors ensure that complaints have been properly addressed on-site.
+- Supervisors can verify whether field officers have visited the site and resolved the issue according to the complaint requirements.
+- Allows supervisors to add notes, confirm resolution, or escalate issues if the visit is incomplete or unsatisfactory.
 **Status: Implemented**
 
